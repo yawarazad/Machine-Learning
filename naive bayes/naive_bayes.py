@@ -1,10 +1,5 @@
 '''
     @author: Yawar Azad
-    github: https://github.com/yawarazad
-    Student Id: 201902566
-    MTech CSE (2019-20121)
-
-    NAIVE BAYES ALGORITHM
 	#dataset used 'iris' from kaggle.com and stored in naive-bayes.csv
 '''
 

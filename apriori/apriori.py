@@ -1,10 +1,5 @@
 '''
     @author: Yawar Azad
-    github: https://github.com/yawarazad
-    Student Id: 201902566
-    MTech CSE (2019-20121)
-
-    APRIORI ALGORITHM
 '''
 def predata(filename,minSup):
     items = c.defaultdict(set)

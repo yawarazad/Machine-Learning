@@ -1,10 +1,5 @@
 '''
     @author: Yawar Azad
-    github: https://github.com/yawarazad
-    Student Id: 201902566
-    MTech CSE (2019-20121)
-
-    K-NEAREST NEIGHBOURS
 '''
 def knn(data, query, k):
     neighbor_distances_and_indices = []

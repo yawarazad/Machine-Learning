@@ -3,11 +3,6 @@ import numpy as np
 
 '''
     @author: Yawar Azad
-    github: https://github.com/yawarazad
-    Student Id: 201902566
-    MTech CSE (2019-20121)
-
-    k-means python implementation
 '''
 
 def random_centers(dim,k):

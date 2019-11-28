@@ -1,10 +1,5 @@
 '''
     @author: Yawar Azad
-    github: https://github.com/yawarazad
-    Student Id: 201902566
-    MTech CSE (2019-20121)
-
-    LINEAR REGRESSION - PYTHON IMPLEMENTATION (NAIVE)
 '''
 class Regression:
     def __init__(self):
